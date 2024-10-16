@@ -19,3 +19,5 @@ would yield anana-bay). Read Wikipedia for more information on rules.
 
 Vigenere / Vernam / Ceasar Ciphers - Functions for encrypting and decrypting 
 data messages. Then send them to a friend.
+
+RSS Feed Creator - Given a link to RSS/Atom Feed, get all posts and display them.
